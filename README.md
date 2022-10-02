@@ -15,7 +15,7 @@ FocusedEdit is built on a lot of technologies. The READMEs of each of these is e
 - [TESample](https://github.com/CamHenlin/TESample) - this is a basic Macintosh Toolbox demo application that the text editing portion of FocusedEdit is essentially riffing off of
 
 ## Limitations / areas for improvement
-FocusedEdit is 100% usable and I've been using it daily to write out long slack messages, confluence docs, emails since mid 2022, but it could be even better with your help:
+FocusedEdit is 100% usable and I've been using it daily to write out long slack messages, confluence docs, and emails since mid-2022, but it could be even better with your help:
 
 - More work could be done to support editing functionality like holding `shift+arrow keys` to highlight blocks of text. As is, you must use the mouse to highlight blocks of text
 - Additional fonts could be included
